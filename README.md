@@ -79,17 +79,17 @@ The following screenshots show selected parts of the completed implementation an
 
 **Desktop**
 
-![Acrusure website — desktop](screenshots/01-website-desktop.png)
+![Acrusure website — desktop](screenshots/01-website-desktop.webp)
 
 **Mobile**
 
-![Acrusure website — mobile](screenshots/02-website-mobile.png)
+![Acrusure website — mobile](screenshots/02-website-mobile.webp)
 
 ### ⚙️ GitHub Actions CI/CD
 
 The deployment workflow was connected to the Azure Static Web App and used GitHub Actions for automated deployment.
 
-![GitHub Actions deployment workflow](screenshots/03-github-actions.png)
+![GitHub Actions deployment workflow](screenshots/03-github-actions.webp)
 
 > Screenshots are included for portfolio documentation. Production source code and sensitive infrastructure configuration remain private.
 
